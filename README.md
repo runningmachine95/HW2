@@ -1,2 +1,2 @@
-# HellowWorld
-a test repository to see basic function in GitHub
+# HW2
+a HW repository to 창의적연구논문
